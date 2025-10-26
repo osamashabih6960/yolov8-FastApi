@@ -135,6 +135,4 @@ If all tests pass successfully, you will see the following result:
 
 ---
 
-# Contact
-
-[Telegram Group](https://t.me/automlalex)
+ 
